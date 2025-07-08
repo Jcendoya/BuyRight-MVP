@@ -1,3 +1,3 @@
 # BuyRight MVP
 
-This is the minimal working version of the BuyRight business evaluation tool.
+This version includes Tailwind and PostCSS for proper deployment on Vercel.
